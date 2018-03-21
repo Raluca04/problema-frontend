@@ -1,5 +1,5 @@
 .title{
-	width: 50%;
+    width: 50%;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -7,7 +7,7 @@
     font-weight: 600;
 }
 .container_developers{
-	width: 50%;
+    width: 50%;
 }
 .developer{
     width: 40%;
@@ -16,7 +16,7 @@
     margin-left: 30px;
 }
 .developer_image{
-	width: 70px;
+    width: 70px;
     height: 70px;
 }
  .image_decoration{
@@ -33,7 +33,7 @@
     cursor: pointer;
 }
 .name{
-  width: 40%;
+    width: 40%;
     margin-bottom: 10px;
     font-family: cursive;
     margin-left: 29px;
