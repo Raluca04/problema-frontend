@@ -1,0 +1,65 @@
+.title{
+	width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: cursive;
+    font-weight: 600;
+}
+.container_developers{
+	width: 50%;
+}
+.developer{
+    width: 40%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
+.developer_image{
+	width: 70px;
+    height: 70px;
+}
+ .image_decoration{
+ 	text-decoration: none;
+ }
+.developer_name{
+    color: black;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: 600;
+    width: 30%;
+    margin-left: 20px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.name{
+  width: 40%;
+    margin-bottom: 10px;
+    font-family: cursive;
+    margin-left: 29px;
+}
+.location_logo{
+    width: 1%;
+    margin-right: 10px;
+    float: left;
+    margin-top: 10px;
+}
+.location{
+    width: 30%;
+    margin-bottom: 10px;
+    font-family: cursive;
+
+}
+.details{
+    width: 30%;
+    margin-bottom: 10px;
+    font-family: cursive;
+    margin-left: 24px;
+}
+.badges{
+    width: 70%;
+    margin-left: 24px;
+    margin-bottom: 10px;
+    font-family: cursive;
+    margin-top: 2px;
+}
